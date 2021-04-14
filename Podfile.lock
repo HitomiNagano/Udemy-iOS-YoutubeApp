@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (5.4.2)
+  - Keys (1.0.1)
+  - SDWebImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/Core (5.11.0)
+  - SegementSlide (3.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - SDWebImage (~> 5.0)
+  - SegementSlide
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SegementSlide
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  Keys: a576f4c9c1c641ca913a959a9c62ed3f215a8de9
+  SDWebImage: 7acbb57630ac7db4a495547fb73916ff3e432f6b
+  SegementSlide: 83b56ffb66b9c0edc4e4f2a74229309c62915db3
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 7273c5110380bc585fba93825d927e8ebf26254d
+
+COCOAPODS: 1.10.1
